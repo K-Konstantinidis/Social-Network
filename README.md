@@ -39,3 +39,4 @@ the suggested friends text are will have a different message.
 
 Every panel except the main one, has a back to login screen button that returns to the mail panel.
 
+For more information about how the code works, there are lots of comments in the .java files to help you understand everything and follow along with ease!
