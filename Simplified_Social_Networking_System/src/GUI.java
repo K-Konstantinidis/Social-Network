@@ -40,7 +40,7 @@ public class GUI extends JFrame implements Serializable{
 	private JTextField inputMail = new JTextField("user mail", 10);
 	private JButton UserPage = new JButton("Enter User Page");
 	private JButton PotentialInfections = new JButton("Show Potential Infections");
-	private JButton PamakBook = new JButton("Save PamakBook");
+	private JButton PamakBook = new JButton("Save MyBook");
 	private JPanel mainpanel = new JPanel();
 	
 	private JList<String> listView = new JList<String>();
